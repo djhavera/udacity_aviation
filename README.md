@@ -5,12 +5,13 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 These diagrams represent the basic manufaturing, warehousing, and selling of an Aviation part.
 
 An activity diagram represents the flow from one activity to another in the system. It captures the dynamic behavior of the system. 
+![Activity](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Eng_Activity.jpg)
 
 A sequence diagram represents interaction between objects in the order or the sequence in which the interactions take place. A state diagram is a type of behavioral diagram that shows how an object moves through various states within its lifetime. 
 ![Sequence](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Eng_Sequence.jpg)
 
 A class diagram shows the structure of a system by modeling the systems classes, their attributes and methods, and the relationship among these objects. 
-
+![Class](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Class.jpg)
 Contract AccessControl: Defines each actor’s role
 
 Contract Base is AccessControl: Defines structs, functions, etc
