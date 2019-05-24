@@ -11,7 +11,7 @@ A sequence diagram represents interaction between objects in the order or the se
 ![Sequence](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Eng_Sequence.jpg)
 
 A class diagram shows the structure of a system by modeling the systems classes, their attributes and methods, and the relationship among these objects. 
-![Class](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Class.jpg)
+![Class](https://github.com/djhavera/udacity_aviation/blob/master/Udacity_Blockchain_Eng_class.jpg)
 Contract AccessControl: Defines each actor’s role
 
 Contract Base is AccessControl: Defines structs, functions, etc
