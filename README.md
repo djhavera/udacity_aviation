@@ -18,7 +18,7 @@ Contract Core is Base: Main contract that tracks part ownership from widget manu
 
 The DApp User Interface when running should look like...
 
-![DAPP]!(https://github.com/djhavera/udacity_aviation_sc/blob/master/front_end.png)
+![DAPP]!(https://github.com/djhavera/udacity_aviation/front_end.png)
 
 ## Getting Started
 
